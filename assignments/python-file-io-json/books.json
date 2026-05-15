@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Learning Python",
+    "author": "Author A",
+    "year": 2021
+  },
+  {
+    "id": 2,
+    "title": "Python Data Projects",
+    "author": "Author B",
+    "year": 2024
+  }
+]

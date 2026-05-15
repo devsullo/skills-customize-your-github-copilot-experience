@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-file-io-json",
+      "title": "Python File I/O and JSON Data",
+      "description": "Read, update, and save book records using JSON files in Python.",
+      "path": "assignments/python-file-io-json",
+      "dueDate": "2026-06-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data",
+          "file": "books.json",
+          "type": "json"
+        }
+      ]
     }
   ]
 }
